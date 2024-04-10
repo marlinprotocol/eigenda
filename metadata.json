@@ -1,0 +1,7 @@
+{
+  "name": "Marlin",
+  "website": "https://www.marlin.org/",
+  "description": "Marlin is a verifiable computing protocol featuring TEE and ZK-based coprocessors to delegate complex workloads over a decentralized node network",
+  "logo": "https://raw.githubusercontent.com/marlinprotocol/eigenda/master/logo.png",
+  "twitter": "https://twitter.com/MarlinProtocol"
+}
